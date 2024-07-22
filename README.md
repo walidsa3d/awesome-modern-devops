@@ -1,9 +1,10 @@
 # Databases
 - [Cassandra](https://cassandra.apache.org/_/index.html)
-    - [Medusa]
+    - [Medusa](https://github.com/thelastpickle/cassandra-medusa)
 - [Postgres](https://www.postgresql.org/)
-    - [Pgbouncer]
-    - [Pgbarman]
+    - [Pgbouncer](https://github.com/pgbouncer/pgbouncer)
+    - [Barman](https://pgbarman.org/)
+    - [pgAdmin](https://github.com/pgadmin-org/pgadmin4)
 
 # Monitoring
 - [Prometheus](https://prometheus.io/)
@@ -33,22 +34,24 @@
 
 # Logging
 - [Sentry](https://sentry.io/)
-- [Elasticsearch]
+- [Elasticsearch](https://www.elastic.co/elasticsearch)
 - [Fluentd](https://www.fluentd.org/)
-- [FluentBit]
+- [FluentBit](https://github.com/fluent/fluent-bit)
 - [Grafana Loki](https://github.com/grafana/loki)
 - [Promtail]
 
 # Storage
 - [Minio](https://min.io/)
 - [Longhorn](https://github.com/longhorn/longhorn)
-- [Garage]
+- [Garage](https://garagehq.deuxfleurs.fr/)
 
 # DevSecops
 - [Trivy](https://github.com/aquasecurity/trivy)
 - [Snyk](https://snyk.io/)
 - [Checkov](https://github.com/bridgecrewio/checkov)
-- [SonarQube]
+- [SonarQube](https://github.com/SonarSource/sonarqube)
+- [Gitleaks](https://github.com/gitleaks/gitleaks)
+- [Trufflehog](https://github.com/trufflesecurity/trufflehog)
 
 # CI/CD
 - [Drone](https://github.com/drone/drone)
@@ -62,9 +65,9 @@
 - [Localstack](https://github.com/localstack/localstack)
 
 # Misc
-- [Vault]
+- [Vault](https://github.com/hashicorp/vault)
 - [Vagrant](https://www.vagrantup.com/)
-- [Airflow]
-- [Keycloak]
+- [Airflow](https://github.com/apache/airflow)
+- [Keycloak](https://github.com/keycloak/keycloak)
 - [Ansible](https://www.ansible.com/)
 - [AWX](https://github.com/ansible/awx)
