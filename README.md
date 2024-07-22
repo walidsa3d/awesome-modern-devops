@@ -6,6 +6,11 @@
     - [Barman](https://pgbarman.org/)
     - [pgAdmin](https://github.com/pgadmin-org/pgadmin4)
 
+# Search Engines
+- [Elasticsearch](https://www.elastic.co/elasticsearch)
+- [OpenSearch](https://github.com/opensearch-project/OpenSearch)
+- [TypeSense](https://github.com/typesense/typesense)
+
 # Monitoring
 - [Prometheus](https://prometheus.io/)
 - [Grafana](https://grafana.com/)
@@ -38,7 +43,6 @@
 - [Fluentd](https://www.fluentd.org/)
 - [FluentBit](https://github.com/fluent/fluent-bit)
 - [Grafana Loki](https://github.com/grafana/loki)
-- [Promtail]
 
 # Storage
 - [Minio](https://min.io/)
