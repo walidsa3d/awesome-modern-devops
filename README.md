@@ -53,28 +53,28 @@
 - [Garage](https://garagehq.deuxfleurs.fr/)
 
 ## DevSecOps
-- [Trivy](https://github.com/aquasecurity/trivy)
-- [Snyk](https://snyk.io/)
-- [Checkov](https://github.com/bridgecrewio/checkov)
-- [SonarQube](https://github.com/SonarSource/sonarqube)
-- [Gitleaks](https://github.com/gitleaks/gitleaks)
-- [Trufflehog](https://github.com/trufflesecurity/trufflehog)
-- [Vault](https://github.com/hashicorp/vault)
+- [Trivy](https://github.com/aquasecurity/trivy) - An open source security scanner.
+- [Snyk](https://snyk.io/) - Scans and monitors your projects for security vulnerabilities.
+- [Checkov](https://github.com/bridgecrewio/checkov) - Prevents cloud misconfigurations and finds vulnerabilities during build-time in infrastructure as code.
+- [SonarQube](https://github.com/SonarSource/sonarqube) - Code Quality, security and static analysis tool. 
+- [Gitleaks](https://github.com/gitleaks/gitleaks) - A fast, light-weight, portable, and open-source secret scanner for git repositories, files, and directories.
+- [Trufflehog](https://github.com/trufflesecurity/trufflehog) - A secrets scanning tool.
+- [Vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management.
 
 ## CI/CD
 - [Drone](https://github.com/drone/drone)
 - [Jenkins](http://jenkins-ci.org/)
 - [Gitlab](https://gitlab.com/)
 
-## Cloud
-- [Terraform](https://www.terraform.io/)
+## Infrastructure as Code
+- [Terraform](https://www.terraform.io/) -  An infrastructure as code tool that enables you to safely and predictably provision and manage infrastructure in any cloud.
 - [OpenTufu](https://opentofu.org/)
-- [Atlantis](https://www.runatlantis.io/)
-- [Localstack](https://github.com/localstack/localstack)
+- [Atlantis](https://www.runatlantis.io/) - Terraform Pull Request Automation.
+- [Localstack](https://github.com/localstack/localstack) -  cloud software development framework to develop and test your AWS applications locally.
+- [Ansible](https://www.ansible.com/) - A Configuration management and application-deployment tool.
+- [AWX](https://github.com/ansible/awx) - A web UI for Ansible.
 
 ## Misc
 - [Vagrant](https://www.vagrantup.com/)
 - [Airflow](https://github.com/apache/airflow)
 - [Keycloak](https://github.com/keycloak/keycloak)
-- [Ansible](https://www.ansible.com/) - A Configuration management and application-deployment tool.
-- [AWX](https://github.com/ansible/awx) - A web UI for Ansible.
