@@ -15,13 +15,15 @@
 - [TypeSense](https://github.com/typesense/typesense) - A fast, typo- tolerant, in-memory fuzzy search engine.
 
 ## Monitoring
-- [Prometheus](https://prometheus.io/) - The leading open-source monitoring solution.
+- [Prometheus](https://prometheus.io/) - The leading open-source
+monitoring solution.
+    - [Awesome Prometheus alerts](https://samber.github.io/awesome-prometheus-alerts/) - A collection of alerting rules.
 - [Grafana](https://grafana.com/)
 
 ## Containers
 - [Docker](https://www.docker.com/)
-- [Podman](https://github.com/containers/podman)
-- [Minikube](https://minikube.sigs.k8s.io/)
+- [Podman](https://github.com/containers/podman) -  A tool for managing OCI containers and pods.
+- [Minikube](https://minikube.sigs.k8s.io/) - A tool to setup a local Kubernetes cluster. 
 - [K9s](https://k9scli.io/) - A terminal UI to interact with your Kubernetes clusters.
 - [ArgoCD](https://github.com/argoproj/argo-cd) - A declarative, GitOps continuous delivery tool for Kubernetes.
 - [Helm](https://helm.sh/) - A tool for managing packages of pre-configured Kubernetes resources.
@@ -62,9 +64,10 @@
 - [Vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management.
 
 ## CI/CD
-- [Drone](https://github.com/drone/drone)
-- [Jenkins](http://jenkins-ci.org/)
+- [Gitness](https://github.com/harness/gitness) - An open source developer platform with source control management, continuous integration and continuous delivery.
+- [Jenkins](http://jenkins-ci.org/) - An open source automation server.
 - [Gitlab](https://gitlab.com/)
+- [Gitea](https://github.com/go-gitea/gitea) - Self-hosted Git hosting, code review, team collaboration, package registry and CI/CD.
 
 ## Infrastructure as Code
 - [Terraform](https://www.terraform.io/) -  An infrastructure as code tool that enables you to safely and predictably provision and manage infrastructure in any cloud.
@@ -75,6 +78,6 @@
 - [AWX](https://github.com/ansible/awx) - A web UI for Ansible.
 
 ## Misc
-- [Vagrant](https://www.vagrantup.com/)
-- [Airflow](https://github.com/apache/airflow)
-- [Keycloak](https://github.com/keycloak/keycloak)
+- [Vagrant](https://www.vagrantup.com/) - A tool to build and manage virtual machines.
+- [Airflow](https://github.com/apache/airflow) - A platform to programmatically author, schedule, and monitor workflows.
+- [Keycloak](https://github.com/keycloak/keycloak) - Open-source identity and access management for modern applications and services.
