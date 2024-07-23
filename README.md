@@ -1,18 +1,18 @@
 # Awesome Modern Devops
 
 ## Databases
-- [Cassandra](https://cassandra.apache.org/_/index.html)
-    - [Medusa](https://github.com/thelastpickle/cassandra-medusa)
+- [Cassandra](https://cassandra.apache.org/)
+    - [Medusa](https://github.com/thelastpickle/cassandra-medusa) - A Cassandra backup tool.
 - [Postgres](https://www.postgresql.org/)
-    - [Pgbouncer](https://github.com/pgbouncer/pgbouncer)
-    - [Barman](https://pgbarman.org/)
+    - [Pgbouncer](https://github.com/pgbouncer/pgbouncer) - A connection pooler for Postgresql.
+    - [Barman](https://pgbarman.org/) - A Postgresql backup tool.
     - [pgAdmin](https://github.com/pgadmin-org/pgadmin4)
     - [Postgres Exporter](https://github.com/prometheus-community/postgres_exporter) - A Prometheus exporter for PostgreSQL server metrics.
 
 ## Search Engines
 - [Elasticsearch](https://www.elastic.co/elasticsearch)
 - [OpenSearch](https://github.com/opensearch-project/OpenSearch)
-- [TypeSense](https://github.com/typesense/typesense)
+- [TypeSense](https://github.com/typesense/typesense) - A fast, typo- tolerant, in-memory fuzzy search engine.
 
 ## Monitoring
 - [Prometheus](https://prometheus.io/) - The leading open-source monitoring solution.
@@ -25,18 +25,18 @@
 - [K9s](https://k9scli.io/) - A terminal UI to interact with your Kubernetes clusters.
 - [ArgoCD](https://github.com/argoproj/argo-cd) - A declarative, GitOps continuous delivery tool for Kubernetes.
 - [Helm](https://helm.sh/) - A tool for managing packages of pre-configured Kubernetes resources.
-- [Kompose](https://kompose.io/)
-- [Karpenter](https://karpenter.sh/)
+- [Kompose](https://kompose.io/) -  A conversion tool for Docker Compose to container orchestrators such as Kubernetes.
+- [Karpenter](https://karpenter.sh/) - Just-in-time nodes for any kubernetes cluster.
 - [Keda](https://keda.sh/) - Allows for fine grained autoscaling for event driven Kubernetes workloads.
 
 ## Web Servers & Load Balancers
-- [HAProxy](https://www.haproxy.org/)
-- [Nginx](http://nginx.org/)
+- [HAProxy](https://www.haproxy.org/) - The reliable, high performance tco/http load balancer.
+- [Nginx](http://nginx.org/) - The famous web server.
 - [Caddy](https://caddyserver.com/) - A powerful, enterprise-ready web server with automatic HTTPS.
 
 ## Messaging Queues
 - [Redis](https://redis.io/)
-- [RabbitMQ](https://www.rabbitmq.com/)
+- [RabbitMQ](https://www.rabbitmq.com/) - A reliable and mature messaging and streaming broker, 
 - [ZeroMQ](https://github.com/zeromq) - An open-source universal messaging library.
 - [Nats](https://nats.io/)
 
@@ -44,13 +44,13 @@
 - [Sentry](https://sentry.io/) - Application performance monitoring and error tracking software.
 - [Elasticsearch](https://www.elastic.co/elasticsearch)
 - [Fluentd](https://www.fluentd.org/)
-- [FluentBit](https://github.com/fluent/fluent-bit)
+- [FluentBit](https://github.com/fluent/fluent-bit) - A fast log processor and forwarder.
 - [Grafana Loki](https://github.com/grafana/loki) - A log aggregation system designed to store and query logs from all your applications and infrastructure.
 
 ## Storage
-- [Minio](https://min.io/)
+- [Minio](https://github.com/minio/minio) - A high performance object storage.
 - [Longhorn](https://github.com/longhorn/longhorn) - A distributed block storage system for Kubernetes.
-- [Garage](https://garagehq.deuxfleurs.fr/)
+- [Garage](https://garagehq.deuxfleurs.fr/) - An open-source distributed object storage service tailored for self-hosting.
 
 ## DevSecOps
 - [Trivy](https://github.com/aquasecurity/trivy) - An open source security scanner.
