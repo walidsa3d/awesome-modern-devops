@@ -1,4 +1,22 @@
-# Awesome Modern Devops
+# Awesome Modern Devops [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of awesome modern devops tools and resources
+
+
+## Contents
+
+- [Databases](#Databases)
+- [Search](#Search)
+- [Monitoring](#Monitoring)
+- [Containers](#Containers)
+- [Messaging](#Messaging)
+- [Logging](#Logging)
+- [Storage](#Storage)
+- [DevSecOps](#DevSecOps)
+- [CI/CD](#CI/CD)
+- [IaC](#IaC)
+- [Misc](#Misc)
+
 
 ## Databases
 - [Cassandra](https://cassandra.apache.org/)
@@ -9,7 +27,7 @@
     - [pgAdmin](https://github.com/pgadmin-org/pgadmin4)
     - [Postgres Exporter](https://github.com/prometheus-community/postgres_exporter) - A Prometheus exporter for PostgreSQL server metrics.
 
-## Search Engines
+## Search
 - [Elasticsearch](https://www.elastic.co/elasticsearch)
 - [OpenSearch](https://github.com/opensearch-project/OpenSearch)
 - [TypeSense](https://github.com/typesense/typesense) - A fast, typo- tolerant, in-memory fuzzy search engine.
@@ -31,12 +49,12 @@ monitoring solution.
 - [Karpenter](https://karpenter.sh/) - Just-in-time nodes for any kubernetes cluster.
 - [Keda](https://keda.sh/) - Allows for fine grained autoscaling for event driven Kubernetes workloads.
 
-## Web Servers & Load Balancers
+## WebServers
 - [HAProxy](https://www.haproxy.org/) - The reliable, high performance tco/http load balancer.
 - [Nginx](http://nginx.org/) - The famous web server.
 - [Caddy](https://caddyserver.com/) - A powerful, enterprise-ready web server with automatic HTTPS.
 
-## Messaging Queues
+## Messaging
 - [Redis](https://redis.io/)
 - [RabbitMQ](https://www.rabbitmq.com/) - A reliable and mature messaging and streaming broker, 
 - [ZeroMQ](https://github.com/zeromq) - An open-source universal messaging library.
@@ -69,7 +87,7 @@ monitoring solution.
 - [Gitlab](https://gitlab.com/)
 - [Gitea](https://github.com/go-gitea/gitea) - Self-hosted Git hosting, code review, team collaboration, package registry and CI/CD.
 
-## Infrastructure as Code
+## IaC
 - [Terraform](https://www.terraform.io/) -  An infrastructure as code tool that enables you to safely and predictably provision and manage infrastructure in any cloud.
 - [OpenTufu](https://opentofu.org/)
 - [Atlantis](https://www.runatlantis.io/) - Terraform Pull Request Automation.
