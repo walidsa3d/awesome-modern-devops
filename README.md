@@ -82,18 +82,19 @@ monitoring solution.
 - [Vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management.
 
 ## CI/CD
-- [Gitness](https://github.com/harness/gitness) - An open source developer platform with source control management, continuous integration and continuous delivery.
 - [Jenkins](http://jenkins-ci.org/) - An open source automation server.
 - [Gitlab](https://gitlab.com/)
+- [Gitness](https://github.com/harness/gitness) - An open source developer platform with source control management, continuous integration and continuous delivery.
 - [Gitea](https://github.com/go-gitea/gitea) - Self-hosted Git hosting, code review, team collaboration, package registry and CI/CD.
 
 ## IaC
 - [Terraform](https://www.terraform.io/) -  An infrastructure as code tool that enables you to safely and predictably provision and manage infrastructure in any cloud.
-- [OpenTufu](https://opentofu.org/)
-- [Atlantis](https://www.runatlantis.io/) - Terraform Pull Request Automation.
-- [Localstack](https://github.com/localstack/localstack) -  cloud software development framework to develop and test your AWS applications locally.
+    - [OpenTufu](https://opentofu.org/)
+    - [Atlantis](https://www.runatlantis.io/) - Terraform Pull Request Automation.
+    - [Localstack](https://github.com/localstack/localstack) -  cloud software development framework to develop and test your AWS applications locally.
 - [Ansible](https://www.ansible.com/) - A Configuration management and application-deployment tool.
-- [AWX](https://github.com/ansible/awx) - A web UI for Ansible.
+    - [Molecule](https://github.com/ansible/molecule) - Test Ansible roles.
+    - [AWX](https://github.com/ansible/awx) - A web UI for Ansible.
 
 ## Misc
 - [Vagrant](https://www.vagrantup.com/) - A tool to build and manage virtual machines.
