@@ -36,7 +36,7 @@
 - [Prometheus](https://prometheus.io/) - The leading open-source
 monitoring solution.
     - [Awesome Prometheus alerts](https://samber.github.io/awesome-prometheus-alerts/) - A collection of alerting rules.
-    - [Node_Exporter](Node/system metrics exporter -) - A system metrics exporter.
+    - [Node_Exporter](https://github.com/prometheus/node_exporter) - A system metrics exporter.
     - [Blackbox_Exporter](https://github.com/prometheus/blackbox_exporter) - Allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
 - [Grafana](https://grafana.com/)
 
