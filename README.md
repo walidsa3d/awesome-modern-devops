@@ -36,10 +36,13 @@
 - [Prometheus](https://prometheus.io/) - The leading open-source
 monitoring solution.
     - [Awesome Prometheus alerts](https://samber.github.io/awesome-prometheus-alerts/) - A collection of alerting rules.
+    - [Node_Exporter](Node/system metrics exporter -) - A system metrics exporter.
+    - [Blackbox_Exporter](https://github.com/prometheus/blackbox_exporter) - Allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
 - [Grafana](https://grafana.com/)
 
 ## Containers
 - [Docker](https://www.docker.com/)
+    - [Watchtower](https://github.com/containrrr/watchtower) - A tool for automating Docker container base image updates.
 - [Podman](https://github.com/containers/podman) -  A tool for managing OCI containers and pods.
 - [Minikube](https://minikube.sigs.k8s.io/) - A tool to setup a local Kubernetes cluster. 
 - [K9s](https://k9scli.io/) - A terminal UI to interact with your Kubernetes clusters.
