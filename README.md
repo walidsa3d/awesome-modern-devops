@@ -38,7 +38,7 @@ monitoring solution.
     - [Awesome Prometheus alerts](https://samber.github.io/awesome-prometheus-alerts/) - A collection of alerting rules.
     - [Node_Exporter](https://github.com/prometheus/node_exporter) - A system metrics exporter.
     - [Blackbox_Exporter](https://github.com/prometheus/blackbox_exporter) - Allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
-- [Grafana](https://grafana.com/)
+- [Grafana](https://grafana.com/) - An interactive data-visualization platform.
 
 ## Containers
 - [Docker](https://www.docker.com/)
@@ -96,6 +96,7 @@ monitoring solution.
     - [OpenTufu](https://opentofu.org/)
     - [Atlantis](https://www.runatlantis.io/) - Terraform Pull Request Automation.
     - [Localstack](https://github.com/localstack/localstack) -  cloud software development framework to develop and test your AWS applications locally.
+    - [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - A CLI tool that generates terraform files based on existing infrastructure.
 - [Ansible](https://www.ansible.com/) - A Configuration management and application-deployment tool.
     - [Molecule](https://github.com/ansible/molecule) - Test Ansible roles.
     - [AWX](https://github.com/ansible/awx) - A web UI for Ansible.
