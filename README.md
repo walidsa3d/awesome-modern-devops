@@ -17,20 +17,22 @@
 - [IaC](#IaC)
 - [Misc](#Misc)
 
+## CI/CD
+- [Jenkins](http://jenkins-ci.org/) - An open source automation server.
+- [Gitlab](https://gitlab.com/)
+- [Gitness](https://github.com/harness/gitness) - An open source developer platform with source control management, continuous integration and continuous delivery.
+- [Gitea](https://github.com/go-gitea/gitea) - Self-hosted Git hosting, code review, team collaboration, package registry and CI/CD.
 
-## Databases
-- [Cassandra](https://cassandra.apache.org/) - A NoSQL distributed database.
-    - [Medusa](https://github.com/thelastpickle/cassandra-medusa) - A Cassandra backup tool.
-- [Postgres](https://www.postgresql.org/)
-    - [Pgbouncer](https://github.com/pgbouncer/pgbouncer) - A connection pooler for Postgresql.
-    - [Barman](https://pgbarman.org/) - A Postgresql backup tool.
-    - [pgAdmin](https://github.com/pgadmin-org/pgadmin4) - A web-based management tool for the Postgres.
-    - [Postgres Exporter](https://github.com/prometheus-community/postgres_exporter) - A Prometheus exporter for PostgreSQL server metrics.
-
-## Search
-- [Elasticsearch](https://www.elastic.co/elasticsearch)
-- [OpenSearch](https://github.com/opensearch-project/OpenSearch) - An open-source fork of Elasticsearch.
-- [TypeSense](https://github.com/typesense/typesense) - A fast, typo- tolerant, in-memory fuzzy search engine.
+## IaC
+- [Terraform](https://www.terraform.io/) -  An infrastructure as code tool that enables you to safely and predictably provision and manage infrastructure in any cloud.
+    - [OpenTufu](https://opentofu.org/) - A community-driven fork of Terraform.
+    - [Atlantis](https://www.runatlantis.io/) - Terraform Pull Request Automation.
+    - [Localstack](https://github.com/localstack/localstack) -  cloud software development framework to develop and test your AWS applications locally.
+    - [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - A CLI tool that generates terraform files based on existing infrastructure.
+- [Ansible](https://www.ansible.com/) - A Configuration management and application-deployment tool.
+    - [Molecule](https://github.com/ansible/molecule) - Test Ansible roles.
+    - [AWX](https://github.com/ansible/awx) - A web UI for Ansible.
+- [Cloud-init](https://github.com/canonical/cloud-init) - Cross-platform cloud instance initialisation tool.
 
 ## Monitoring
 - [Prometheus](https://prometheus.io/) - The leading open-source
@@ -52,6 +54,21 @@ monitoring solution.
     - [Kompose](https://kompose.io/) -  A conversion tool for Docker Compose to container orchestrators such as Kubernetes.
     - [Karpenter](https://karpenter.sh/) - Just-in-time nodes for any kubernetes cluster.
     - [Keda](https://keda.sh/) - Allows for fine grained autoscaling for event driven Kubernetes workloads.
+
+## Databases
+- [Cassandra](https://cassandra.apache.org/) - A NoSQL distributed database.
+    - [Medusa](https://github.com/thelastpickle/cassandra-medusa) - A Cassandra backup tool.
+- [Postgres](https://www.postgresql.org/)
+    - [Pgbouncer](https://github.com/pgbouncer/pgbouncer) - A connection pooler for Postgresql.
+    - [Barman](https://pgbarman.org/) - A Postgresql backup tool.
+    - [pgAdmin](https://github.com/pgadmin-org/pgadmin4) - A web-based management tool for the Postgres.
+    - [Postgres Exporter](https://github.com/prometheus-community/postgres_exporter) - A Prometheus exporter for PostgreSQL server metrics.
+
+## Search
+- [Elasticsearch](https://www.elastic.co/elasticsearch)
+- [OpenSearch](https://github.com/opensearch-project/OpenSearch) - An open-source fork of Elasticsearch.
+- [TypeSense](https://github.com/typesense/typesense) - A fast, typo- tolerant, in-memory fuzzy search engine.
+
 
 ## WebServers
 - [HAProxy](https://www.haproxy.org/) - The reliable, high performance tco/http load balancer.
@@ -83,22 +100,6 @@ monitoring solution.
 - [Gitleaks](https://github.com/gitleaks/gitleaks) - A fast, light-weight, portable, and open-source secret scanner for git repositories, files, and directories.
 - [Trufflehog](https://github.com/trufflesecurity/trufflehog) - A secrets scanning tool.
 - [Vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management.
-
-## CI/CD
-- [Jenkins](http://jenkins-ci.org/) - An open source automation server.
-- [Gitlab](https://gitlab.com/)
-- [Gitness](https://github.com/harness/gitness) - An open source developer platform with source control management, continuous integration and continuous delivery.
-- [Gitea](https://github.com/go-gitea/gitea) - Self-hosted Git hosting, code review, team collaboration, package registry and CI/CD.
-
-## IaC
-- [Terraform](https://www.terraform.io/) -  An infrastructure as code tool that enables you to safely and predictably provision and manage infrastructure in any cloud.
-    - [OpenTufu](https://opentofu.org/) - A community-driven fork of Terraform.
-    - [Atlantis](https://www.runatlantis.io/) - Terraform Pull Request Automation.
-    - [Localstack](https://github.com/localstack/localstack) -  cloud software development framework to develop and test your AWS applications locally.
-    - [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - A CLI tool that generates terraform files based on existing infrastructure.
-- [Ansible](https://www.ansible.com/) - A Configuration management and application-deployment tool.
-    - [Molecule](https://github.com/ansible/molecule) - Test Ansible roles.
-    - [AWX](https://github.com/ansible/awx) - A web UI for Ansible.
 
 ## Misc
 - [Vagrant](https://www.vagrantup.com/) - A tool to build and manage virtual machines.
