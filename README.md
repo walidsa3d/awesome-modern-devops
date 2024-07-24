@@ -19,17 +19,17 @@
 
 
 ## Databases
-- [Cassandra](https://cassandra.apache.org/)
+- [Cassandra](https://cassandra.apache.org/) - A NoSQL distributed database.
     - [Medusa](https://github.com/thelastpickle/cassandra-medusa) - A Cassandra backup tool.
 - [Postgres](https://www.postgresql.org/)
     - [Pgbouncer](https://github.com/pgbouncer/pgbouncer) - A connection pooler for Postgresql.
     - [Barman](https://pgbarman.org/) - A Postgresql backup tool.
-    - [pgAdmin](https://github.com/pgadmin-org/pgadmin4)
+    - [pgAdmin](https://github.com/pgadmin-org/pgadmin4) - A web-based management tool for the Postgres.
     - [Postgres Exporter](https://github.com/prometheus-community/postgres_exporter) - A Prometheus exporter for PostgreSQL server metrics.
 
 ## Search
 - [Elasticsearch](https://www.elastic.co/elasticsearch)
-- [OpenSearch](https://github.com/opensearch-project/OpenSearch)
+- [OpenSearch](https://github.com/opensearch-project/OpenSearch) - An open-source fork of Elasticsearch.
 - [TypeSense](https://github.com/typesense/typesense) - A fast, typo- tolerant, in-memory fuzzy search engine.
 
 ## Monitoring
@@ -59,16 +59,15 @@ monitoring solution.
 - [Caddy](https://caddyserver.com/) - A powerful, enterprise-ready web server with automatic HTTPS.
 
 ## Messaging
-- [Redis](https://redis.io/)
+- [Redis](https://redis.io/) - The famous key-value store.
 - [RabbitMQ](https://www.rabbitmq.com/) - A reliable and mature messaging and streaming broker, 
 - [ZeroMQ](https://github.com/zeromq) - An open-source universal messaging library.
-- [Nats](https://nats.io/)
 
 ## Logging
 - [Sentry](https://sentry.io/) - Application performance monitoring and error tracking software.
 - [Elasticsearch](https://www.elastic.co/elasticsearch)
-- [Fluentd](https://www.fluentd.org/)
 - [FluentBit](https://github.com/fluent/fluent-bit) - A fast log processor and forwarder.
+- [Fluentd](https://github.com/fluent/fluentd) - A log collector and shipper.
 - [Grafana Loki](https://github.com/grafana/loki) - A log aggregation system designed to store and query logs from all your applications and infrastructure.
 
 ## Storage
@@ -93,7 +92,7 @@ monitoring solution.
 
 ## IaC
 - [Terraform](https://www.terraform.io/) -  An infrastructure as code tool that enables you to safely and predictably provision and manage infrastructure in any cloud.
-    - [OpenTufu](https://opentofu.org/)
+    - [OpenTufu](https://opentofu.org/) - A community-driven fork of Terraform.
     - [Atlantis](https://www.runatlantis.io/) - Terraform Pull Request Automation.
     - [Localstack](https://github.com/localstack/localstack) -  cloud software development framework to develop and test your AWS applications locally.
     - [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - A CLI tool that generates terraform files based on existing infrastructure.
