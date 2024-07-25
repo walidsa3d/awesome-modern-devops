@@ -63,10 +63,12 @@ monitoring solution.
     - [Barman](https://pgbarman.org/) - A Postgresql backup tool.
     - [pgAdmin](https://github.com/pgadmin-org/pgadmin4) - A web-based management tool for the Postgres.
     - [Postgres Exporter](https://github.com/prometheus-community/postgres_exporter) - A Prometheus exporter for PostgreSQL server metrics.
+    - [PGVector](https://github.com/pgvector/pgvector) - Vector similarity search for Postgres.
 
 ## Search
-- [Elasticsearch](https://www.elastic.co/elasticsearch)
-- [OpenSearch](https://github.com/opensearch-project/OpenSearch) - An open-source fork of Elasticsearch.
+- [Elasticsearch](https://www.elastic.co/elasticsearch) - A distributed, RESTful search and analytics engine.
+    - [OpenSearch](https://github.com/opensearch-project/OpenSearch) - An open-source fork of Elasticsearch.
+    - [Curator](https://github.com/elastic/curator) - Tending your Elasticsearch indices.
 - [TypeSense](https://github.com/typesense/typesense) - A fast, typo- tolerant, in-memory fuzzy search engine.
 
 
