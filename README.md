@@ -16,6 +16,7 @@
 - [CI/CD](#CI/CD)
 - [IaC](#IaC)
 - [Misc](#Misc)
+- [Resources](#Resources)
 
 ## CI/CD
 - [Jenkins](http://jenkins-ci.org/) - An open source automation server.
@@ -45,6 +46,7 @@ monitoring solution.
 ## Containers
 - [Docker](https://www.docker.com/)
     - [Watchtower](https://github.com/containrrr/watchtower) - A tool for automating Docker container base image updates.
+    - [Lazydocker](https://github.com/jesseduffield/lazydocker) - A simple terminal UI for both docker and docker-compose.
 - [Podman](https://github.com/containers/podman) -  A tool for managing OCI containers and pods.
 - [k8s](https://github.com/kubernetes/kubernetes)
     - [Minikube](https://minikube.sigs.k8s.io/) - A tool to setup a local Kubernetes cluster. 
@@ -109,7 +111,9 @@ monitoring solution.
 - [Airflow](https://github.com/apache/airflow) - A platform to programmatically author, schedule, and monitor workflows.
 - [Keycloak](https://github.com/keycloak/keycloak) - Open-source identity and access management for modern applications and services.
 
-
+## Resources
+- [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
+- [Git tips](https://github.com/git-tips/tips)
 
 ## Contribute
 
