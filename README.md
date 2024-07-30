@@ -7,7 +7,7 @@
 
 - [Databases](#Databases)
 - [Search](#Search)
-- [Observability](#Monitoring)
+- [Observability](#Observability)
 - [Containers](#Containers)
 - [Messaging](#Messaging)
 - [Storage](#Storage)
