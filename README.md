@@ -7,10 +7,9 @@
 
 - [Databases](#Databases)
 - [Search](#Search)
-- [Monitoring](#Monitoring)
+- [Observability](#Monitoring)
 - [Containers](#Containers)
 - [Messaging](#Messaging)
-- [Logging](#Logging)
 - [Storage](#Storage)
 - [DevSecOps](#DevSecOps)
 - [CI/CD](#CI/CD)
@@ -35,13 +34,18 @@
     - [AWX](https://github.com/ansible/awx) - A web UI for Ansible.
 - [Cloud-init](https://github.com/canonical/cloud-init) - Cross-platform cloud instance initialisation tool.
 
-## Monitoring
+## Observability
 - [Prometheus](https://prometheus.io/) - The leading open-source
 monitoring solution.
     - [Awesome Prometheus alerts](https://samber.github.io/awesome-prometheus-alerts/) - A collection of alerting rules.
     - [Node_Exporter](https://github.com/prometheus/node_exporter) - A system metrics exporter.
     - [Blackbox_Exporter](https://github.com/prometheus/blackbox_exporter) - Allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
 - [Grafana](https://grafana.com/) - An interactive data-visualization platform.
+- [Sentry](https://sentry.io/) - Application performance monitoring and error tracking software.
+- [Elasticsearch](https://www.elastic.co/elasticsearch)
+- [FluentBit](https://github.com/fluent/fluent-bit) - A fast log processor and forwarder.
+- [Fluentd](https://github.com/fluent/fluentd) - A log collector and shipper.
+- [Grafana Loki](https://github.com/grafana/loki) - A log aggregation system designed to store and query logs from all your applications and infrastructure.
 
 ## Containers
 - [Docker](https://www.docker.com/)
@@ -74,7 +78,6 @@ monitoring solution.
     - [Curator](https://github.com/elastic/curator) - Tending your Elasticsearch indices.
 - [TypeSense](https://github.com/typesense/typesense) - A fast, typo- tolerant, in-memory fuzzy search engine.
 
-
 ## WebServers
 - [HAProxy](https://www.haproxy.org/) - The reliable, high performance tco/http load balancer.
 - [Nginx](http://nginx.org/) - The famous web server.
@@ -84,13 +87,6 @@ monitoring solution.
 - [Redis](https://redis.io/) - The famous key-value store.
 - [RabbitMQ](https://www.rabbitmq.com/) - A reliable and mature messaging and streaming broker, 
 - [ZeroMQ](https://github.com/zeromq) - An open-source universal messaging library.
-
-## Logging
-- [Sentry](https://sentry.io/) - Application performance monitoring and error tracking software.
-- [Elasticsearch](https://www.elastic.co/elasticsearch)
-- [FluentBit](https://github.com/fluent/fluent-bit) - A fast log processor and forwarder.
-- [Fluentd](https://github.com/fluent/fluentd) - A log collector and shipper.
-- [Grafana Loki](https://github.com/grafana/loki) - A log aggregation system designed to store and query logs from all your applications and infrastructure.
 
 ## Storage
 - [Minio](https://github.com/minio/minio) - A high performance object storage.
@@ -114,6 +110,7 @@ monitoring solution.
 ## Resources
 - [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 - [Git tips](https://github.com/git-tips/tips)
+- [Git flow cheat sheet](https://danielkummer.github.io/git-flow-cheatsheet/)
 
 ## Contribute
 
