@@ -50,6 +50,7 @@ monitoring solution.
 ## Containers
 - [Docker](https://www.docker.com/)
     - [Watchtower](https://github.com/containrrr/watchtower) - A tool for automating Docker container base image updates.
+    - [Diun](https://crazymax.dev/diun/) - A Docker image update notifier.
     - [Lazydocker](https://github.com/jesseduffield/lazydocker) - A simple terminal UI for both docker and docker-compose.
 - [Podman](https://github.com/containers/podman) -  A tool for managing OCI containers and pods.
 - [k8s](https://github.com/kubernetes/kubernetes)
