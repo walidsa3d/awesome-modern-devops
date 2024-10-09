@@ -4,24 +4,28 @@
 
 
 ## Contents
-- [CI/CD](#CI/CD)
-- [IaC](#IaC)
-- [Containers](#Containers)
-- [Observability](#Observability)
-- [Databases](#Databases)
-- [Search](#Search)
-- [Webservers](#Webservers)
-- [Messaging](#Messaging)
-- [Storage](#Storage)
-- [DevSecOps](#DevSecOps)
-- [Misc](#Misc)
-- [Resources](#Resources)
+- [Awesome Modern Devops ](#awesome-modern-devops-)
+  - [Contents](#contents)
+  - [CI/CD](#cicd)
+  - [IaC](#iac)
+  - [Observability](#observability)
+  - [Containers](#containers)
+  - [Databases](#databases)
+  - [Search](#search)
+  - [WebServers](#webservers)
+  - [Messaging](#messaging)
+  - [Storage](#storage)
+  - [DevSecOps](#devsecops)
+  - [Misc](#misc)
+  - [Resources](#resources)
+  - [Contribute](#contribute)
 
 ## CI/CD
 - [Jenkins](http://jenkins-ci.org/) - An open source automation server.
 - [Gitlab](https://gitlab.com/)
 - [Gitness](https://github.com/harness/gitness) - An open source developer platform with source control management, continuous integration and continuous delivery.
 - [Gitea](https://github.com/go-gitea/gitea) - Self-hosted Git hosting, code review, team collaboration, package registry and CI/CD.
+- [Act](https://github.com/nektos/act) - Run your GitHub Actions locally.
 
 ## IaC
 - [Terraform](https://www.terraform.io/) -  An infrastructure as code tool that enables you to safely and predictably provision and manage infrastructure in any cloud.
@@ -72,6 +76,8 @@ monitoring solution.
     - [pgAdmin](https://github.com/pgadmin-org/pgadmin4) - A web-based management tool for the Postgres.
     - [Postgres Exporter](https://github.com/prometheus-community/postgres_exporter) - A Prometheus exporter for PostgreSQL server metrics.
     - [PGVector](https://github.com/pgvector/pgvector) - Vector similarity search for Postgres.
+- [Redis](https://github.com/redis/redis) - An in-memory key-value store
+  - [Valkey](https://github.com/valkey-io/valkey) - An open-source version of Redis.
 
 ## Search
 - [Elasticsearch](https://www.elastic.co/elasticsearch) - A distributed, RESTful search and analytics engine.
@@ -85,7 +91,6 @@ monitoring solution.
 - [Caddy](https://caddyserver.com/) - A powerful, enterprise-ready web server with automatic HTTPS.
 
 ## Messaging
-- [Redis](https://redis.io/) - The famous key-value store.
 - [RabbitMQ](https://www.rabbitmq.com/) - A reliable and mature messaging and streaming broker, 
 - [ZeroMQ](https://github.com/zeromq) - An open-source universal messaging library.
 
